@@ -5,9 +5,6 @@ using UnityEngine;
 namespace Areal_Cloud_Generator_Block
 {
 
-    // If you need documentation about any of these values or the mod loader
-    // in general, take a look at https://spaar.github.io/besiege-modloader.
-
     public class YourMod : Mod
     {
         public override string Name { get; } = "<placeholder>";
